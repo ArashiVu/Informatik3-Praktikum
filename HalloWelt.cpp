@@ -6,7 +6,7 @@ Programmversion: 1
 Datum: 21.09.2010
 Klassenname: 2BKI 1/1
 Lizenz: GNU GPL
-Programmbeschreibung: Gibt Hallo Welt aus.
+Programmbeschreibung: Gibt Hallo Welt aus.sdfsdfsdf
 */
 
 //---------------------------------------------------------------------------
