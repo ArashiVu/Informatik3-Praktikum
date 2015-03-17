@@ -1,0 +1,6 @@
+D:\GIT-Hub\Info3-Praktikum\C#\Console-HelloWorld\Console-HelloWorld\bin\Debug\Console-HelloWorld.exe.config
+D:\GIT-Hub\Info3-Praktikum\C#\Console-HelloWorld\Console-HelloWorld\bin\Debug\Console-HelloWorld.exe
+D:\GIT-Hub\Info3-Praktikum\C#\Console-HelloWorld\Console-HelloWorld\bin\Debug\Console-HelloWorld.pdb
+D:\GIT-Hub\Info3-Praktikum\C#\Console-HelloWorld\Console-HelloWorld\obj\Debug\Console-HelloWorld.csprojResolveAssemblyReference.cache
+D:\GIT-Hub\Info3-Praktikum\C#\Console-HelloWorld\Console-HelloWorld\obj\Debug\Console-HelloWorld.exe
+D:\GIT-Hub\Info3-Praktikum\C#\Console-HelloWorld\Console-HelloWorld\obj\Debug\Console-HelloWorld.pdb

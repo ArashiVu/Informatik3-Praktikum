@@ -1,0 +1,9 @@
+D:\GIT-Hub\Info3-Praktikum\C#\WindowsFormsApplication-HelloWorld\WindowsFormsApplication-HelloWorld\bin\Debug\WindowsFormsApplication-HelloWorld.exe.config
+D:\GIT-Hub\Info3-Praktikum\C#\WindowsFormsApplication-HelloWorld\WindowsFormsApplication-HelloWorld\bin\Debug\WindowsFormsApplication-HelloWorld.exe
+D:\GIT-Hub\Info3-Praktikum\C#\WindowsFormsApplication-HelloWorld\WindowsFormsApplication-HelloWorld\bin\Debug\WindowsFormsApplication-HelloWorld.pdb
+D:\GIT-Hub\Info3-Praktikum\C#\WindowsFormsApplication-HelloWorld\WindowsFormsApplication-HelloWorld\obj\Debug\WindowsFormsApplication-HelloWorld.csprojResolveAssemblyReference.cache
+D:\GIT-Hub\Info3-Praktikum\C#\WindowsFormsApplication-HelloWorld\WindowsFormsApplication-HelloWorld\obj\Debug\WindowsFormsApplication_HelloWorld.Form1.resources
+D:\GIT-Hub\Info3-Praktikum\C#\WindowsFormsApplication-HelloWorld\WindowsFormsApplication-HelloWorld\obj\Debug\WindowsFormsApplication_HelloWorld.Properties.Resources.resources
+D:\GIT-Hub\Info3-Praktikum\C#\WindowsFormsApplication-HelloWorld\WindowsFormsApplication-HelloWorld\obj\Debug\WindowsFormsApplication-HelloWorld.csproj.GenerateResource.Cache
+D:\GIT-Hub\Info3-Praktikum\C#\WindowsFormsApplication-HelloWorld\WindowsFormsApplication-HelloWorld\obj\Debug\WindowsFormsApplication-HelloWorld.exe
+D:\GIT-Hub\Info3-Praktikum\C#\WindowsFormsApplication-HelloWorld\WindowsFormsApplication-HelloWorld\obj\Debug\WindowsFormsApplication-HelloWorld.pdb

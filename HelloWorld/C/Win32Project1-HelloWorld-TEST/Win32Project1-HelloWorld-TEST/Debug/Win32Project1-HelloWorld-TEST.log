@@ -1,0 +1,19 @@
+﻿Der Buildvorgang wurde am 16.03.2015 22:54:39 gestartet.
+     1>Projekt "D:\GIT-Hub\Info3-Praktikum\C#\Win32Project1-HelloWorld-TEST\Win32Project1-HelloWorld-TEST\Win32Project1-HelloWorld-TEST.vcxproj" auf Knoten "2", Build Ziel(e).
+     1>ClCompile:
+         D:\Entwicklungsumgebungen\VisualStudio2013-Professional\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\Win32Project1-HelloWorld-TEST.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         D:\Entwicklungsumgebungen\VisualStudio2013-Professional\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Win32Project1-HelloWorld-TEST.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "Win32Project1-HelloWorld-TEST.cpp"
+         Win32Project1-HelloWorld-TEST.cpp
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D _UNICODE /D UNICODE /l"0x0409" /nologo /fo"Debug\Win32Project1-HelloWorld-TEST.res" Win32Project1-HelloWorld-TEST.rc 
+       Link:
+         D:\Entwicklungsumgebungen\VisualStudio2013-Professional\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\GIT-Hub\Info3-Praktikum\C#\Win32Project1-HelloWorld-TEST\Debug\Win32Project1-HelloWorld-TEST.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\GIT-Hub\Info3-Praktikum\C#\Win32Project1-HelloWorld-TEST\Debug\Win32Project1-HelloWorld-TEST.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\GIT-Hub\Info3-Praktikum\C#\Win32Project1-HelloWorld-TEST\Debug\Win32Project1-HelloWorld-TEST.lib" /MACHINE:X86 "Debug\Win32Project1-HelloWorld-TEST.res"
+         Debug\stdafx.obj
+         "Debug\Win32Project1-HelloWorld-TEST.obj"
+         Win32Project1-HelloWorld-TEST.vcxproj -> D:\GIT-Hub\Info3-Praktikum\C#\Win32Project1-HelloWorld-TEST\Debug\Win32Project1-HelloWorld-TEST.exe
+     1>Die Erstellung des Projekts "D:\GIT-Hub\Info3-Praktikum\C#\Win32Project1-HelloWorld-TEST\Win32Project1-HelloWorld-TEST\Win32Project1-HelloWorld-TEST.vcxproj" ist abgeschlossen, Build Ziel(e).
+
+Build erfolgreich.
+
+Verstrichene Zeit 00:00:03.26
